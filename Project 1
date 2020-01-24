@@ -3,5 +3,14 @@ Web01
   Gateway: 10.0.5.1
   DNS: 10.0.5.1
   
-  XUBu
-    
+  vyos-02
+  wan interface: 10.0.17.60
+  lan interface: 10.0.5.3
+  virtual wan: 10.0.17.80
+  vrtiual lan: 10.0.5.1
+  
+yos-03 (01)
+  wan interface: 10.0.17.110
+  lan interface: 10.0.5.2
+  virtual wan: 10.0.17.80
+  vrtiual lan: 10.0.5.1

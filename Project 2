@@ -1,0 +1,1 @@
+Installed pacemaker, heartbeat and corosync on both web servers and formed them in to a cluster.  The vritual IP of the culster is 10.0.5.120.
